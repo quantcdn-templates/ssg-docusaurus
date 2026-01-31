@@ -1,6 +1,6 @@
 [{
     "title": "Docusaurus",
-    "url": "/deploy/step-one?template=ssg-docusaurus",
+    "url": "/deploy/static/ssg-docusaurus",
     "summary": "A modern static site generator optimized for documentation websites.",
     "content": "Deploy Docusaurus, the documentation framework from Meta. Features MDX support, versioning, i18n, search, and a beautiful default theme.",
     "categories": ["documentation", "javascript", "react"],
