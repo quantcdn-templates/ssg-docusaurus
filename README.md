@@ -1,6 +1,6 @@
 # Docusaurus Template for QuantCDN
 
-[![Deploy to QuantCDN](https://www.quantcdn.io/img/quant-deploy-btn-sml.svg)](https://dashboard.quantcdn.io/projects/add/jamstack?template=docusaurus)
+[![Deploy to QuantCDN](https://www.quantcdn.io/img/quant-deploy-btn-sml.svg)](https://dashboard.quantcdn.io/projects/add/jamstack/ssg-docusaurus)
 
 A modern documentation site template using [Docusaurus](https://docusaurus.io/), the documentation framework from Meta. Optimized for deployment on QuantCDN.
 
